@@ -1,4 +1,4 @@
-# 网易云音乐自动签到 + 刷歌
+# 网易云音乐
 > 网易云音乐自动登录签到 + 刷歌 510 首 + 自动发动态(5云贝)+自动无动态分享朋友圈（5云贝）
  > fork至:https://github.com/t00t00-crypto/wyy-action
 ## Github Actions 部署指南
