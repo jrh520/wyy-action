@@ -28,6 +28,7 @@ jobs:
         user='${{ secrets.USER }}'
         pwd='${{ secrets.PWD }}'
         key='${{ secrets.KEY }}' 
+        cookie='${{ secrets.COOKIE }}'
         
         user_list=()
         pwd_list=()
@@ -60,5 +61,6 @@ jobs:
         ${user_list[$i]}
         ${pwd_list[$i]}
         ${key}
+        ${cookie}
         EOF
         done
